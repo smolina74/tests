@@ -9,4 +9,4 @@ COPY ./ /microservice/
 WORKDIR /microservice
 
 EXPOSE 5000
-CMD ["python","-u","microservice.py","<MODEL_NAME>","REST","--service-type","MODEL","--persistence","0"]
+CMD ["python","-u","microservice.py","Model","REST","--service-type","MODEL","--persistence","0"]
