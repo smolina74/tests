@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "byond-infinity-platform",
+  "private_key_id": "7f574880a7ce8d609f5eadaffb9772af3ffef381",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDeNVc1odrayoLT\ndwVYoB0dpzUaSl8ssBy1ZBO1rcUJUzUl6OJ3qQDLsPswga0KGfgVPn8QkWfCO+ip\n4/6KP9V47/B8tzv59hesHgsGXKmHiDjHCcWy9cp1MBuVVkxbVihV9emEUOxPT0VB\nUzeT/OZi+/Fkm5vfDIOwN6WdD/f4lzuzZBxEYnrGiqSpuxYZvedQW9shELrPtIVv\nE8ny3W1lIR++eC273Q6P2IZZyywpAYvlDx+T7My83ritsvvIF0Po3Y+4wyW1RDkC\nxfiXQM/tB3fRhTr2uQvKLWWCo7IfTjtgWymdqTZd66vJba16QQ/CqpnC21PWb81Z\nt2gZKaNZAgMBAAECggEABOZSYlRdJCMAGyJRFsVfmSn44oOFq4ut3DISLqR2/rFH\nu3ZDgk0MyxPuJI0gLpJLSzJx84xM4n8uOi3gdYSri0Q5WJJL8nH3FR30eQGfJv0v\nDvR9TJcXmTakKuG7iO3eJdK59aGtWhVATJh0EI0g273lW0kb1goomkxOXjMj8P3U\nXcJmXWXnl6qWpd7gLYbHQ57khH4r3hsYxak/utT4A2ppx7INq7wfJxmAzMaXKOa4\n9YYG53hsB8F4kLr23bW2ApsWROK/GoeCxBkEobdS8vW2+dbBzTOHvV1qOIwO2R2Q\nbsZQknIBQWVzS8wYZbomOuFeX/LeFT+H9J8dJ+dyoQKBgQDu6BARFfCyybWRkOD5\nLsJpdak7Ba4zSmK+qJ7U1PlZhGH1RIxKi6+ifCC7xTLmlLMZXkLV2KK6+i4jtTXq\nzJCKMY3SMg/OPw+TAK9gr1UaeieLgwT86L5NdKOtoRVygsO9LpqcQDBc7v0iDb4+\nnToBusNPY5oVmhVU3TMSn697twKBgQDuG20Un1Keza2P/PJLKek/+U0Tt/Yc/M5u\npR3PauBaSKzaOTXKleYtyxD28qAT8Cf7X2yt5SbruNNPpxUJhPVAz3enXvexGY8v\nWpLK0+T0sJldHlSx0orwbBK+8RA5SKjAzsTraSBTnOX5/LooEQNj+e5pcjtHXNtJ\nwXshFTL5bwKBgQCfSMwFiDpOCdxr7EuC9+EZDSDCwFvPyKWjdqtHPaPuQixJqeVb\nglycmeP9LVJtl/D9VfJ7v49n2IvQtO342WD5MmbbIROWsEbC/S7w6JV2LMGW68j0\nknznCYBjsEWrbnHw/VSKHuXf4FuXS9Bu0McvBgVYNhEym+PjDAQUQ7FtawKBgQDm\nxZIdMKWE4FddfIzgqIg2xssbV2qjgaoZttKDm1RCbLmK73PhGxNyQqP4lALuEA7Q\nJRZSHAxy3jl/s7JB/akt3WZcw0BRVzJddO1cw63eMeMSSzlO935NspEgmsdcnb1g\n0YYtm0AHicOjXHyYJJUiqrOVY29spOSsQWezErbK5QKBgQCGNBE91YTUl7e30Ofv\nTZiBzBmD4GkqZgStaCpzbts5UT2u/qJcOE0ZhuOBY77qTIEX+18QoNtUYTrPLP/E\nvjmGRK4ckZ90dk6kewY3CbIb5diNsz9ru57ZybopjH3qVAgrmrKaXuW97g8/bs4U\ntqxBV0SSnDBpPbMcKvux9AR8zw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-ci@byond-infinity-platform.iam.gserviceaccount.com",
+  "client_id": "112054902845472334589",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-ci%40byond-infinity-platform.iam.gserviceaccount.com"
+}
